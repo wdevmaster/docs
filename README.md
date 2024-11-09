@@ -4,5 +4,5 @@ Esta biblioteca contiene una serie de guías prácticas para integrar y configur
 
 Estas guías están diseñadas para desarrolladores que buscan optimizar sus aplicaciones Laravel utilizando servicios de AWS de manera eficiente y segura.
 
-* [Configurar SNS y SQS en AWS](https://github.com/wdevmaster/docs/blob/main/SNS%26SQS/README.md)
+* [Configurar SNS y SQS en AWS](https://github.com/wdevmaster/docs/blob/main/Docs/SNS%26SQS.md)
 
